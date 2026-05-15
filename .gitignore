@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+gcp-sa*.json
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+
+# Per-deployment session notes (not part of template)
+docs/
